@@ -1,0 +1,3 @@
+Pada kesempatan kali ini saya ingin berbagi pengalaman dari skripsi saya dimana skripsi saya yaitu membandingkan 3 metode klasifikasi yaitu support vector machine, multilayer perceptron dan xtreme gradient boosting. Disini saya membandingkan ketiga metode klasifikasi tersebut dengan mengimplementasikannya pada data bioinformatika yang  saya dapatkan dari website NCBI https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18732.
+pada repository ini juga saya tambahkan data yang telah saya lakukan pre-processing dan filtering serta telah saya bagi menjadi data train dan data test, tetapi saya sarankan untuk pembaca download data bioinfomatics hasil ekspresi gen di NCBI dengan kode series GSE18732
+ 
